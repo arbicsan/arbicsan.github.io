@@ -54,7 +54,9 @@
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 2,
-    "versionPublish": "6.1.12"
+    "versionPublish": "6.1.12",
+    "screenshot": "screenshot.png",
+    "modified": "2026-06-30T07:41:46.171Z"
   },
   "pages": {
     "index.html": {
